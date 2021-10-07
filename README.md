@@ -1,6 +1,6 @@
 - 🥉 Técnico em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA)
 - 🎓 Graduando no curso de Ciência da Computação pela Universidade Federal do Maranhão (UFMA)
-- 📚 Atualmente reaprendendo PHP e estudando a framework React JS
+- 📚 Atualmente reaprendendo PHP<!-- e estudando a framework React JS-->
 
  <div>
   <a href="https://github.com/IA-V">
